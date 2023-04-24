@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "64443973d42002977565d9a4",
+    "nome": "Ana dos Peixes",
+    "quantidade": 1000,
+    "valor": 300,
+    "createdAt": "2023-04-22T19:45:55.705Z",
+    "updatedAt": "2023-04-22T22:53:24.688Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456b772f6b1324c2f570be",
+    "nome": "Tiago Monstro da Javascript",
+    "quantidade": 900,
+    "valor": 1000000,
+    "createdAt": "2023-04-23T17:31:35.806Z",
+    "updatedAt": "2023-04-23T17:31:35.806Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456b992f6b1324c2f570c0",
+    "nome": "Guilherme Caramujinho Fofinho",
+    "quantidade": 50,
+    "valor": 1.99,
+    "createdAt": "2023-04-23T17:32:09.567Z",
+    "updatedAt": "2023-04-23T17:32:09.567Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456f312f6b1324c2f570c5",
+    "nome": "Guilherme Caramujinho Fofinho",
+    "quantidade": 50,
+    "valor": 1.99,
+    "createdAt": "2023-04-23T17:47:29.307Z",
+    "updatedAt": "2023-04-23T17:47:29.307Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456f312f6b1324c2f570c8",
+    "nome": "Gabriel Soldado",
+    "quantidade": 660,
+    "valor": 600,
+    "createdAt": "2023-04-23T17:47:29.308Z",
+    "updatedAt": "2023-04-23T17:47:29.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456f312f6b1324c2f570c9",
+    "nome": "Leon",
+    "quantidade": 6690,
+    "valor": 6040,
+    "createdAt": "2023-04-23T17:47:29.308Z",
+    "updatedAt": "2023-04-23T17:47:29.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456f312f6b1324c2f570c6",
+    "nome": "Carlesso",
+    "quantidade": 60,
+    "valor": 600,
+    "createdAt": "2023-04-23T17:47:29.308Z",
+    "updatedAt": "2023-04-23T17:47:29.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "64456f312f6b1324c2f570c7",
+    "nome": "Versari Belezinha",
+    "quantidade": 100,
+    "valor": 400,
+    "createdAt": "2023-04-23T17:47:29.308Z",
+    "updatedAt": "2023-04-23T17:47:29.308Z",
+    "__v": 0
+  },
+  {
+    "_id": "6445703b2f6b1324c2f570d1",
+    "nome": "Teste 4",
+    "quantidade": 5990,
+    "valor": 1.99,
+    "createdAt": "2023-04-23T17:51:55.694Z",
+    "updatedAt": "2023-04-23T17:51:55.694Z",
+    "__v": 0
+  }
+]
